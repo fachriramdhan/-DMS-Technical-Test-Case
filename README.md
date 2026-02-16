@@ -1,8 +1,8 @@
 # JAWABAN PERTANYAAN DESAIN SISTEM
 
-**Nama:** Fachri Ramdhan Al Mubaroq
-**Technical Test:** Document Management System (DMS)  
-**Tanggal:** 16 Februari 2026
+- **Nama:** Fachri Ramdhan Al Mubaroq
+- **Technical Test:** Document Management System (DMS)  
+- **Tanggal:** 16 Februari 2026
 
 ---
 
